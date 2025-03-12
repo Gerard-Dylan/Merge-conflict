@@ -1,2 +1,1 @@
-# Merge-conflict
-test merge&conflict
+LOCAL
